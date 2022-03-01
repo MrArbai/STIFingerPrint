@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetCetakReport" targetNamespace="http://tempuri.org/DataSetCetakReport.xsd" xmlns:mstns="http://tempuri.org/DataSetCetakReport.xsd" xmlns="http://tempuri.org/DataSetCetakReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetCetakReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetCetakReport" msprop:Generator_UserDSName="DataSetCetakReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtAkumulasiKeterlambatan" msprop:Generator_TableClassName="dtAkumulasiKeterlambatanDataTable" msprop:Generator_TableVarName="tabledtAkumulasiKeterlambatan" msprop:Generator_RowChangedName="dtAkumulasiKeterlambatanRowChanged" msprop:Generator_TablePropName="dtAkumulasiKeterlambatan" msprop:Generator_RowDeletingName="dtAkumulasiKeterlambatanRowDeleting" msprop:Generator_RowChangingName="dtAkumulasiKeterlambatanRowChanging" msprop:Generator_RowEvHandlerName="dtAkumulasiKeterlambatanRowChangeEventHandler" msprop:Generator_RowDeletedName="dtAkumulasiKeterlambatanRowDeleted" msprop:Generator_RowClassName="dtAkumulasiKeterlambatanRow" msprop:Generator_UserTableName="dtAkumulasiKeterlambatan" msprop:Generator_RowEvArgName="dtAkumulasiKeterlambatanRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="No" msprop:Generator_ColumnVarNameInTable="columnNo" msprop:Generator_ColumnPropNameInRow="No" msprop:Generator_ColumnPropNameInTable="NoColumn" msprop:Generator_UserColumnName="No" type="xs:string" minOccurs="0" />
+              <xs:element name="Nama" msprop:Generator_ColumnVarNameInTable="columnNama" msprop:Generator_ColumnPropNameInRow="Nama" msprop:Generator_ColumnPropNameInTable="NamaColumn" msprop:Generator_UserColumnName="Nama" type="xs:string" minOccurs="0" />
+              <xs:element name="Nik" msprop:Generator_ColumnVarNameInTable="columnNik" msprop:Generator_ColumnPropNameInRow="Nik" msprop:Generator_ColumnPropNameInTable="NikColumn" msprop:Generator_UserColumnName="Nik" type="xs:string" minOccurs="0" />
+              <xs:element name="Departemen" msprop:Generator_ColumnVarNameInTable="columnDepartemen" msprop:Generator_ColumnPropNameInRow="Departemen" msprop:Generator_ColumnPropNameInTable="DepartemenColumn" msprop:Generator_UserColumnName="Departemen" type="xs:string" minOccurs="0" />
+              <xs:element name="Periode" msprop:Generator_ColumnVarNameInTable="columnPeriode" msprop:Generator_ColumnPropNameInRow="Periode" msprop:Generator_ColumnPropNameInTable="PeriodeColumn" msprop:Generator_UserColumnName="Periode" type="xs:string" minOccurs="0" />
+              <xs:element name="Jabatan" msprop:Generator_ColumnVarNameInTable="columnJabatan" msprop:Generator_ColumnPropNameInRow="Jabatan" msprop:Generator_ColumnPropNameInTable="JabatanColumn" msprop:Generator_UserColumnName="Jabatan" type="xs:string" minOccurs="0" />
+              <xs:element name="LambatMasuk" msprop:Generator_ColumnVarNameInTable="columnLambatMasuk" msprop:Generator_ColumnPropNameInRow="LambatMasuk" msprop:Generator_ColumnPropNameInTable="LambatMasukColumn" msprop:Generator_UserColumnName="LambatMasuk" type="xs:string" minOccurs="0" />
+              <xs:element name="CepatIstOut" msprop:Generator_ColumnVarNameInTable="columnCepatIstOut" msprop:Generator_ColumnPropNameInRow="CepatIstOut" msprop:Generator_ColumnPropNameInTable="CepatIstOutColumn" msprop:Generator_UserColumnName="CepatIstOut" type="xs:string" minOccurs="0" />
+              <xs:element name="LambatIstIn" msprop:Generator_ColumnVarNameInTable="columnLambatIstIn" msprop:Generator_ColumnPropNameInRow="LambatIstIn" msprop:Generator_ColumnPropNameInTable="LambatIstInColumn" msprop:Generator_UserColumnName="LambatIstIn" type="xs:string" minOccurs="0" />
+              <xs:element name="CepatPulang" msprop:Generator_ColumnVarNameInTable="columnCepatPulang" msprop:Generator_ColumnPropNameInRow="CepatPulang" msprop:Generator_ColumnPropNameInTable="CepatPulangColumn" msprop:Generator_UserColumnName="CepatPulang" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

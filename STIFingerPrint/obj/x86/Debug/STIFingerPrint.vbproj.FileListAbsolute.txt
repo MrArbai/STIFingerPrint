@@ -1,0 +1,349 @@
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\STIFingerPrint.exe.config
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\STIFingerPrint.exe
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\STIFingerPrint.pdb
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\STIFingerPrint.xml
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.MDIMenu.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.Resources.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmLogin.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.vbproj.GenerateResource.Cache
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.exe
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.xml
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.pdb
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.frmMstRegistrasiFinger.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.frmUtlUserLogin.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.exe.licenses
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.C1FlexGrid.4.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.C1FlexGrid.4.xml
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.vbprojResolveAssemblyReference.cache
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmutlGroupManagement.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstDevice.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmFindMstRegistrasiFinger.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstUploadFPtoDevice.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstWorkTime.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnSetWorkTime.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnAbsensiPerhari.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmSetShiftTime.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnUpdateShiftUser.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.C1List.4.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.C1List.4.xml
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.frmMonRekapAbsensiPerBulan.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\NPOI.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\NPOI.OOXML.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\NPOI.OpenXml4Net.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\NPOI.OpenXmlFormats.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.4.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.ImportServices.4.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.ImportServices.4.xml
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCetakAbsensi.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMonAkumulasiKeterlambatan.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnKambalikanAbsensi.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnRestorRecodFinger.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnApproveAbsensiByDept.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnApproveAbsensiByPSN.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ZKEUEmKeeperNet.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstRemoveUserFormDevice.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstTamu.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMonFingerTamu.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMonLogFinger.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstTenagaKerja.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstDepartemen.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstJabatan.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCutiIzinInput.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCutiIzinFind.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCutiIzinApproveByDept.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCutiIzinApproveByPSN.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMonCutiIzin.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmCetakAkumulasiKeterlambatan.resources
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\EnvDTE.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\stdole.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.MSXML.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmAttendanceManual.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\STIFingerPrint.exe.config
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\STIFingerPrint.exe
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\STIFingerPrint.pdb
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\STIFingerPrint.xml
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.C1FlexGrid.4.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.C1List.4.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.ImportServices.4.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\NPOI.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\NPOI.OOXML.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\NPOI.OpenXml4Net.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\NPOI.OpenXmlFormats.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\WeifenLuo.WinFormsUI.Docking.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ZKEUEmKeeperNet.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.4.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\EnvDTE.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\stdole.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.MSXML.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.C1FlexGrid.4.xml
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.C1List.4.xml
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.ImportServices.4.xml
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.vbprojResolveAssemblyReference.cache
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmFindMstRegistrasiFinger.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstDepartemen.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstDevice.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstJabatan.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.frmMstRegistrasiFinger.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstRemoveUserFormDevice.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstTamu.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstTenagaKerja.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstUploadFPtoDevice.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstWorkTime.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.MDIMenu.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMonAkumulasiKeterlambatan.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMonCutiIzin.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMonFingerTamu.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMonLogFinger.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.frmMonRekapAbsensiPerBulan.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.Resources.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmCetakAkumulasiKeterlambatan.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnApproveAbsensiByDept.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnApproveAbsensiByPSN.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCetakAbsensi.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmSetShiftTime.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnAbsensiPerhari.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCutiIzinApproveByDept.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCutiIzinApproveByPSN.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCutiIzinFind.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCutiIzinInput.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnKambalikanAbsensi.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnRestorRecodFinger.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnSetWorkTime.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnUpdateShiftUser.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmAttendanceManual.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmutlGroupManagement.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmLogin.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.frmUtlUserLogin.resources
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.vbproj.GenerateResource.Cache
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.exe.licenses
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.exe
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.xml
+G:\PROJECT VB.NET\STI Tes\New folder\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.pdb
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\STIFingerPrint.exe.config
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\STIFingerPrint.exe
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\STIFingerPrint.pdb
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\STIFingerPrint.xml
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.C1FlexGrid.4.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.C1List.4.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.ImportServices.4.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.Design.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.SqlServer.Types.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\NPOI.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\NPOI.OOXML.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\NPOI.OpenXml4Net.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\NPOI.OpenXmlFormats.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ZKEUEmKeeperNet.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.4.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\EnvDTE.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\stdole.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\Microsoft.MSXML.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.C1FlexGrid.4.xml
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.C1List.4.xml
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\C1.Win.ImportServices.4.xml
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\bin\x86\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.vbprojResolveAssemblyReference.cache
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmFindMstRegistrasiFinger.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstDepartemen.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstDevice.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstJabatan.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.frmMstRegistrasiFinger.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstRemoveUserFormDevice.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstTamu.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstTenagaKerja.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstUploadFPtoDevice.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMstWorkTime.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.MDIMenu.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMonAkumulasiKeterlambatan.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMonCutiIzin.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMonFingerTamu.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmMonLogFinger.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.frmMonRekapAbsensiPerBulan.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.Resources.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmCetakAkumulasiKeterlambatan.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnApproveAbsensiByDept.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnApproveAbsensiByPSN.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCetakAbsensi.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmSetShiftTime.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnAbsensiPerhari.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCutiIzinApproveByDept.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCutiIzinApproveByPSN.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCutiIzinFind.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnCutiIzinInput.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnKambalikanAbsensi.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnRestorRecodFinger.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnSetWorkTime.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmTrnUpdateShiftUser.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmAttendanceManual.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmutlGroupManagement.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.FrmLogin.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.frmUtlUserLogin.resources
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.vbproj.GenerateResource.Cache
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.exe.licenses
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.exe
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.xml
+G:\PROJECT VB.NET\STI Tes\STIFingerPrint\STIFingerPrint\obj\x86\Debug\STIFingerPrint.pdb

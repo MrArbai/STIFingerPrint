@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F2C0842E-00F4-4049-A5D0-BD53BDD733F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>STIFingerPrint.My.MyApplication</StartupObject>
+    <RootNamespace>STIFingerPrint</RootNamespace>
+    <AssemblyName>STIFingerPrint</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>STIFingerPrint.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>STIFingerPrint.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>STIFingerPrint.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>STIFingerPrint.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>fingerprintNew.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Win.C1FlexGrid.4, Version=4.0.20173.282, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1List.4, Version=4.0.20173.282, Culture=neutral, PublicKeyToken=6b24f8f981dbd7bc, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.ImportServices.4, Version=4.0.20173.282, Culture=neutral, PublicKeyToken=944ae1ea0e47ca04" />
+    <Reference Include="Interop.zkeuemkeeper">
+      <HintPath>..\DLL\Interop.zkeuemkeeper.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI">
+      <HintPath>..\packages\NPOI.Excel.2.1.1\lib\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OOXML">
+      <HintPath>..\packages\NPOI.Excel.2.1.1\lib\NPOI.OOXML.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net">
+      <HintPath>..\packages\NPOI.Excel.2.1.1\lib\NPOI.OpenXml4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats">
+      <HintPath>..\packages\NPOI.Excel.2.1.1\lib\NPOI.OpenXmlFormats.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking, Version=3.0.4.0, Culture=neutral, PublicKeyToken=5cded1a1a0a7b481, processorArchitecture=MSIL">
+      <HintPath>..\packages\DockPanelSuite.3.0.4\lib\net40\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+      <Private>False</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ZKEUEmKeeperNet">
+      <HintPath>..\DLL\ZKEUEmKeeperNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Master\FrmFindMstRegistrasiFinger.Designer.vb">
+      <DependentUpon>FrmFindMstRegistrasiFinger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\FrmFindMstRegistrasiFinger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\FrmMstDepartemen.Designer.vb">
+      <DependentUpon>FrmMstDepartemen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\FrmMstDepartemen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\FrmMstDevice.Designer.vb">
+      <DependentUpon>FrmMstDevice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\FrmMstDevice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\FrmMstJabatan.Designer.vb">
+      <DependentUpon>FrmMstJabatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\FrmMstJabatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmMstRegistrasiFinger.designer.vb">
+      <DependentUpon>frmMstRegistrasiFinger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmMstRegistrasiFinger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\FrmMstRemoveUserFormDevice.Designer.vb">
+      <DependentUpon>FrmMstRemoveUserFormDevice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\FrmMstRemoveUserFormDevice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\FrmMstTamu.Designer.vb">
+      <DependentUpon>FrmMstTamu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\FrmMstTamu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\FrmMstTenagaKerja.Designer.vb">
+      <DependentUpon>FrmMstTenagaKerja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\FrmMstTenagaKerja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\FrmMstUploadFPtoDevice.Designer.vb">
+      <DependentUpon>FrmMstUploadFPtoDevice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\FrmMstUploadFPtoDevice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\FrmMstWorkTime.Designer.vb">
+      <DependentUpon>FrmMstWorkTime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Master\FrmMstWorkTime.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIMenu.Designer.vb">
+      <DependentUpon>MDIMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModulData.vb" />
+    <Compile Include="ModuleInpoi.vb" />
+    <Compile Include="Monitoring\FrmMonAkumulasiKeterlambatan.Designer.vb">
+      <DependentUpon>FrmMonAkumulasiKeterlambatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Monitoring\FrmMonAkumulasiKeterlambatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monitoring\FrmMonCutiIzin.Designer.vb">
+      <DependentUpon>FrmMonCutiIzin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Monitoring\FrmMonCutiIzin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monitoring\FrmMonFingerTamu.Designer.vb">
+      <DependentUpon>FrmMonFingerTamu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Monitoring\FrmMonFingerTamu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monitoring\FrmMonLogFinger.Designer.vb">
+      <DependentUpon>FrmMonLogFinger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Monitoring\FrmMonLogFinger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Monitoring\frmMonRekapAbsensiPerBulan.Designer.vb">
+      <DependentUpon>frmMonRekapAbsensiPerBulan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Monitoring\frmMonRekapAbsensiPerBulan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Report\DataSetCetakReport.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCetakReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\FrmCetakAkumulasiKeterlambatan.Designer.vb">
+      <DependentUpon>FrmCetakAkumulasiKeterlambatan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\FrmCetakAkumulasiKeterlambatan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnApproveAbsensiByDept.Designer.vb">
+      <DependentUpon>FrmTrnApproveAbsensiByDept.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnApproveAbsensiByDept.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnApproveAbsensiByPSN.Designer.vb">
+      <DependentUpon>FrmTrnApproveAbsensiByPSN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnApproveAbsensiByPSN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnCetakAbsensi.Designer.vb">
+      <DependentUpon>FrmTrnCetakAbsensi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnCetakAbsensi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmSetShiftTime.Designer.vb">
+      <DependentUpon>FrmSetShiftTime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmSetShiftTime.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnAbsensiPerhari.Designer.vb">
+      <DependentUpon>FrmTrnAbsensiPerhari.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnAbsensiPerhari.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnCutiIzinApproveByDept.Designer.vb">
+      <DependentUpon>FrmTrnCutiIzinApproveByDept.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnCutiIzinApproveByDept.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnCutiIzinApproveByPSN.Designer.vb">
+      <DependentUpon>FrmTrnCutiIzinApproveByPSN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnCutiIzinApproveByPSN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnCutiIzinFind.Designer.vb">
+      <DependentUpon>FrmTrnCutiIzinFind.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnCutiIzinFind.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnCutiIzinInput.Designer.vb">
+      <DependentUpon>FrmTrnCutiIzinInput.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnCutiIzinInput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnKambalikanAbsensi.Designer.vb">
+      <DependentUpon>FrmTrnKambalikanAbsensi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnKambalikanAbsensi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnRestorRecodFinger.Designer.vb">
+      <DependentUpon>FrmTrnRestorRecodFinger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnRestorRecodFinger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnSetWorkTime.Designer.vb">
+      <DependentUpon>FrmTrnSetWorkTime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnSetWorkTime.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnUpdateShiftUser.Designer.vb">
+      <DependentUpon>FrmTrnUpdateShiftUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\FrmTrnUpdateShiftUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utility\FrmAttendanceManual.Designer.vb">
+      <DependentUpon>FrmAttendanceManual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\FrmAttendanceManual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utility\FrmutlGroupManagement.Designer.vb">
+      <DependentUpon>FrmutlGroupManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\FrmutlGroupManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utility\FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuleKoneksi.vb" />
+    <Compile Include="Utility\frmUtlUserLogin.designer.vb">
+      <DependentUpon>frmUtlUserLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\frmUtlUserLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Master\FrmFindMstRegistrasiFinger.resx">
+      <DependentUpon>FrmFindMstRegistrasiFinger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\FrmMstDepartemen.resx">
+      <DependentUpon>FrmMstDepartemen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\FrmMstDevice.resx">
+      <DependentUpon>FrmMstDevice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\FrmMstJabatan.resx">
+      <DependentUpon>FrmMstJabatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmMstRegistrasiFinger.resx">
+      <DependentUpon>frmMstRegistrasiFinger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\FrmMstRemoveUserFormDevice.resx">
+      <DependentUpon>FrmMstRemoveUserFormDevice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\FrmMstTamu.resx">
+      <DependentUpon>FrmMstTamu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\FrmMstTenagaKerja.resx">
+      <DependentUpon>FrmMstTenagaKerja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\FrmMstUploadFPtoDevice.resx">
+      <DependentUpon>FrmMstUploadFPtoDevice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\FrmMstWorkTime.resx">
+      <DependentUpon>FrmMstWorkTime.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIMenu.resx">
+      <DependentUpon>MDIMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monitoring\FrmMonAkumulasiKeterlambatan.resx">
+      <DependentUpon>FrmMonAkumulasiKeterlambatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monitoring\FrmMonCutiIzin.resx">
+      <DependentUpon>FrmMonCutiIzin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monitoring\FrmMonFingerTamu.resx">
+      <DependentUpon>FrmMonFingerTamu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monitoring\FrmMonLogFinger.resx">
+      <DependentUpon>FrmMonLogFinger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Monitoring\frmMonRekapAbsensiPerBulan.resx">
+      <DependentUpon>frmMonRekapAbsensiPerBulan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\FrmCetakAkumulasiKeterlambatan.resx">
+      <DependentUpon>FrmCetakAkumulasiKeterlambatan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptAkumulasiKeterlambatan.rdlc" />
+    <EmbeddedResource Include="Transaction\FrmTrnApproveAbsensiByDept.resx">
+      <DependentUpon>FrmTrnApproveAbsensiByDept.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\FrmTrnApproveAbsensiByPSN.resx">
+      <DependentUpon>FrmTrnApproveAbsensiByPSN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\FrmTrnCetakAbsensi.resx">
+      <DependentUpon>FrmTrnCetakAbsensi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\FrmSetShiftTime.resx">
+      <DependentUpon>FrmSetShiftTime.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\FrmTrnAbsensiPerhari.resx">
+      <DependentUpon>FrmTrnAbsensiPerhari.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\FrmTrnCutiIzinApproveByDept.resx">
+      <DependentUpon>FrmTrnCutiIzinApproveByDept.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\FrmTrnCutiIzinApproveByPSN.resx">
+      <DependentUpon>FrmTrnCutiIzinApproveByPSN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\FrmTrnCutiIzinFind.resx">
+      <DependentUpon>FrmTrnCutiIzinFind.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\FrmTrnCutiIzinInput.resx">
+      <DependentUpon>FrmTrnCutiIzinInput.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\FrmTrnKambalikanAbsensi.resx">
+      <DependentUpon>FrmTrnKambalikanAbsensi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\FrmTrnRestorRecodFinger.resx">
+      <DependentUpon>FrmTrnRestorRecodFinger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\FrmTrnSetWorkTime.resx">
+      <DependentUpon>FrmTrnSetWorkTime.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\FrmTrnUpdateShiftUser.resx">
+      <DependentUpon>FrmTrnUpdateShiftUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utility\FrmAttendanceManual.resx">
+      <DependentUpon>FrmAttendanceManual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utility\FrmutlGroupManagement.resx">
+      <DependentUpon>FrmutlGroupManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utility\FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utility\frmUtlUserLogin.resx">
+      <DependentUpon>frmUtlUserLogin.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Report\DataSetCetakReport.xsc">
+      <DependentUpon>DataSetCetakReport.xsd</DependentUpon>
+    </None>
+    <None Include="Report\DataSetCetakReport.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCetakReport.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Report\DataSetCetakReport.xss">
+      <DependentUpon>DataSetCetakReport.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fingerprintNew.ico" />
+    <Content Include="SqlServerTypes\Loader.cs" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
